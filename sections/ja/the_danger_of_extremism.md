@@ -1,11 +1,11 @@
-# The danger of extremism #
+# 急進思想の危険 #
 
-One problem with programming rules and guidelines is that they often only serve a purpose within a specific context. Taken out of context, a good rule can become a horrible rule. In fact, every good rule becomes bad when taken to the extreme.
+プログラミングのルールとガイドラインの問題の一つに、それらはしばしば特定の文脈での目的にしか役立たないということがあります。それ以外の文脈では、良いルールは恐しいルールと化すことがあります。事実として、すべての良いルールは行きすぎると悪いルールになります。
 
-This is important to understand because many of the software development principles and rules developed over time and presented by many different people often become misused in the hands of extremists.
+時間の経過とともに増える多くのソフトウェア開発の原則やルールは別々の人々によって提唱されるもので、それらは過激派によって誤用されるものだと理解することが大切です。
 
-Experience has taught that misuse of general rules and guidelines always results in complication, lack of security, error-prone results, and in some cases complete and utter disaster.
+経験によれば一般的なルールやガイドラインを誤用は、複雑化、セキュリティの欠如、エラーが生じやすくなる、そして場合によっては深刻で重大な事故といった結果につながります。
 
-The [KISS principle](https://en.wikipedia.org/wiki/KISS_principle), which is an acronym for "Keep It Simple, Stupid", is an extremely wise and good principle that is generally viewed by experienced people as very good advice to follow, but even this great principle becomes a danger to a project if taken to the extreme. There is such a thing as "too simple" resulting in a lack of needed functionality.
+[KISSの原則](https://ja.wikipedia.org/wiki/KISS%E3%81%AE%E5%8E%9F%E5%89%87)は"Keep It Simple, Stupid" （シンプルにしておけ！この間抜け）の略語で、経験豊かな人々の一般的な見解に基く、賢明で良い原則です。ただしこの偉大な原則も、やりすぎるとプロジェクトを危機に陥れます。それが「シンプルすぎる」と、必要な機能すらも不足する結果になります。
 
-**The wrong way**: Religious following of rules and guidelines. ![Thumbs down](/img/thumbs-down.png)
+**間違った方法**: ルールとガイドラインの宗教的な盲信 ![Thumbs down](/img/thumbs-down.png)
