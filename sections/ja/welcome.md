@@ -1,16 +1,16 @@
-# Welcome #
+# ようこそ #
 
-In the world of PHP programming a set of trends are massively being propagated by some people (in their books and on websites) as "Modern PHP" while all other approaches are frowned upon as backwards, stupid, or just plain wrong.
+PHPプログラミングの世界の潮流では、一部の人々（の本やWebサイト）によって「モダンPHP」だとされるものが大げさに喧伝され、そのほかのアプローチはすべて「時代遅れ」「愚か」「間違い」だと批判されます。
 
-These people seem to work tirelessly at getting other people to follow their way of doing things.
+この人たちは、ほかのひとたちに自分のやりかたを伝えるためにたゆまぬ努力をしているように見えます。
 
-This website has been created in an attempt to present a pragmatic view on PHP programming. A view dictated by experience and practical consequence rather than popular trends, theory, or academic dogma.
+このWebサイトはPHPプログラミングに関する現実的な見解を提示するために開設されたものです。その見解はポピュラーなトレンドや理論、学術的な定説ではなく、経験則と実践された結果に基きます。
 
-The website [PHP - The Wrong Way](http://www.phpthewrongway.com/) is a living document and will continue to be updated with more information as it become available.
+このWebサイト[PHP - The Wrong Way](http://www.phpthewrongway.com/)は生きた文書であり、利用可能になるにつれて多くの情報が更新され続けるでしょう。
 
-Feel free to contribute.
+お気軽にコントリビュートしてください！
 
-## Translations ##
+## 翻訳 ##
 
 * [Danish](http://www.phpthewrongway.com/da/)
 * [English](http://www.phpthewrongway.com/)
